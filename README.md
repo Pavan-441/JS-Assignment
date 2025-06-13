@@ -60,3 +60,15 @@
 
 10. In the array `['HTML', 'CSS', 'Python']`, replace `'Python'` with `'JavaScript'`.
 
+
+## 🚀 Event Handling Problems
+
+1. Create a `input` button and `paragraph` and add text to them. When clicked on button text as `Click Me`, it will `show paragraph` and button text will change to `Hide Me`, again clicked on button then it will `hide paragraph`.
+
+2. Create a `div` with some text inside. When the user `hovers` (mouse over) on the `div`, change its `background color` to `light blue`. When the mouse leaves, `revert` it back to `white`.
+
+3. Create a button labeled `"Click Me"`. Every time the button is clicked, `increase a counter` and display `"You clicked X times"` below the button.
+
+4. Create a `password` input field with a checkbox labeled `"Show Password"`. When the checkbox is `checked`, change the `input type` from `"password"` to `"text"` and back when `unchecked`.
+
+5. Create a `text input` box and a `div` below it. As the `user types`, the `div` should `display` the `same text in real time`.
